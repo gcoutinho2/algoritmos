@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>br.com.coutinho</groupId>
+  <artifactId>ProjetoMaven2</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170922010450</lastUpdated>
+  </versioning>
+</metadata>
